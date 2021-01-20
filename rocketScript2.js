@@ -1,7 +1,7 @@
 var canvas;
 var canvasContext;
 var myRocket;
-var gravity = 0.00;
+var gravity = 0.1;
 var keysDown = {};
 var bgColor = "#000045";
 var coliders = [];
